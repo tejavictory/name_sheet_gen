@@ -1,5 +1,4 @@
-# name_sheet_gen
-**Name Sheet Generator**
+# Name Sheet Generator
 
 Created by **Krishna Teja**
 
